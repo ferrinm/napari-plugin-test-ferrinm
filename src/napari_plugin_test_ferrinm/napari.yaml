@@ -1,7 +1,7 @@
 name: napari-plugin-test-ferrinm
 display_name: Plugin Test Ferrinm
 # use 'hidden' to remove plugin from napari hub search results
-visibility: public
+visibility: hidden
 # see https://napari.org/stable/plugins/technical_references/manifest.html#fields for valid categories
 # categories: []
 contributions:
